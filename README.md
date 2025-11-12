@@ -4,62 +4,22 @@ Ce projet est une application To-Do List interactive créée avec React, dans le
 
 ## Fonctionnalités
 
-- ✅ Ajouter des tâches
-- ✅ Afficher et cocher les tâches terminées
-- ✅ Supprimer des tâches
-- ✅ Interface moderne et responsive
+-  Ajouter des tâches
+-  Afficher et cocher les tâches terminées
+-  Supprimer des tâches
+-  Interface moderne et responsive
 
 ## Installation
 
 1. Installer les dépendances :
-```bash
-npm install
-```
 
-2. Lancer l'application en mode développement :
-```bash
-npm start
-```
-
-L'application s'ouvrira automatiquement dans votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000)
+<img width="1013" height="351" alt="Capture d’écran 2025-11-12 à 23 22 28" src="https://github.com/user-attachments/assets/a4fc1881-19a9-4662-b2c9-ea754165f412" />
 
 ## Structure du projet
 
-```
-src/
-├── components/
-│   ├── TodoForm.js      # Formulaire d'ajout de tâches
-│   ├── TodoItem.js      # Composant pour un élément de la liste
-│   ├── TodoList.js      # Liste des tâches
-│   └── *.css            # Styles des composants
-├── App.js               # Composant principal avec gestion du state
-├── App.css              # Styles de l'application
-├── index.js             # Point d'entrée
-└── index.css            # Styles globaux
-```
+<img width="778" height="543" alt="Capture d’écran 2025-11-12 à 23 24 20" src="https://github.com/user-attachments/assets/c4e1ef79-8176-4d9e-b86b-8fb2eaa87fdd" />
 
-## Build pour la production
+## Résultat :
 
-Pour créer une version optimisée pour la production :
-
-```bash
-npm run build
-```
-
-Le dossier `build/` contiendra les fichiers optimisés prêts à être déployés sur Netlify, Vercel ou tout autre hébergeur.
-
-## Technologies utilisées
-
-- React 18.2.0
-- React Router DOM 6.8.0
-- CSS3
-
-## Concepts React utilisés
-
-- Composants fonctionnels
-- Hooks (useState)
-- Gestion des événements
-- Props et communication entre composants
-- Formulaires contrôlés
-- Manipulation d'état (state)
+https://github.com/user-attachments/assets/18a67e67-9ce6-4505-95d3-87c02d050b3f
 
